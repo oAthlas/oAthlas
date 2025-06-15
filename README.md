@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Elder Luiz (Athlas)!
+# 👋 Olá, eu sou o Athlas!
 
 > **Idade:** 16 anos &nbsp;|&nbsp; **Paixão:** Programação & IA &nbsp;|&nbsp; **Estilo:** Autodidata, mão na massa
 
