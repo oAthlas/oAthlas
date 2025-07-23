@@ -43,7 +43,7 @@ Meu principal projeto: uma assistente virtual com foco em interações naturais,
 
 Tenho criado sites com design premium e foco emocional, como:
 
-- **Site de Dia dos Namorados**: um presente digital cheio de efeitos, animações e personalidade
+- **Sites informativos**: páginas de plantas, pessoas, etc, cheio de efeitos, animações e personalidade
 - **Portfólios modernos**: projetos com visual de alto impacto, uso de gradientes, animações e responsividade
 
 ---
@@ -68,7 +68,7 @@ Tenho criado sites com design premium e foco emocional, como:
 - [GitHub](https://github.com/oAthlas)
 - [Instagram](https://instagram.com/eu.elderluiz)
 - [Portfólio](https://oathlas.github.io/meu-portfolio)
-- Reddit: **oAthlas**
+- [Reddit](https://www.reddit.com/user/oAthlas/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ---
 
