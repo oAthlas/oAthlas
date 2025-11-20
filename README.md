@@ -1,85 +1,25 @@
-# 👋 Olá, eu sou o Athlas!
+<img src="https://github.com/oAthlas/oAthlas/blob/main/imgs/ATHLAS.ME.png">
+<br/>
+<br/>
 
-> **Idade:** 16 anos &nbsp;|&nbsp; **Paixão:** Programação & IA &nbsp;|&nbsp; **Estilo:** Autodidata, mão na massa
+# Oioi, eu sou o Athlas!
 
----
+<a href="https://www.linkedin.com/in/elder-luiz-2842a5370" target="_blank"><img align="left" alt="linkedin" width="22px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/linkedin.png" /></a>
+<a href="https://discord.com/users/1056208083250065438" target="_blank"><img align="left" alt="discord" width="22px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/discord.png" /></a>
+<a href="https://www.instagram.com/eu.elderluiz/" target="_blank"><img align="left" alt="instagram" width="22px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/instagram.png" /></a>
 
-## 📌 Sobre mim
+<br/>
+<br/>
 
-Me chamo **Elder Luiz**, também conhecido como **Athlas**. Sou um programador autodidata apaixonado por tecnologia e inteligência artificial. Comecei a programar há pouco tempo, mas com a ajuda de IAs como o ChatGPT, GitHub Copilot e DeepSeek, consegui acelerar meu aprendizado e criar projetos com impacto real.
+<p>Sou um desenvolvedor focado em automações e backend de desenvolvimento web, tenho experiência em Python para automações e interfaces, criação de sites com HTML, CSS e JavaScript, integração de APIs, além do uso geral de IA generativa. No momento estudo automações com N8N e criação de backends web com Django.</p> 
 
-Meu estilo de aprendizado é prático: gosto de aprender fazendo, errando e melhorando — encaro cada novo desafio como uma chance de evoluir.
+<br/>
+<br/>
+<br/>
 
----
-
-## 🧑‍💻 Principais Tecnologias
-
-- **Python** (automações, APIs, IA)
-- **HTML, CSS & JavaScript** (web front-end)
-- **Tkinter** (interfaces gráficas em Python)
-- **Flask** (backend web)
-- **SpeechRecognition & gTTS** (áudio e voz)
-- **Git & GitHub**
-- **APIs** (OpenRouter, OpenAI)
-- **Integração com IA generativa** (ChatGPT, DeepSeek, etc.)
-- **VSCode & GitHub Copilot**
-
----
-
-## 🚀 Projetos em Destaque
-
-### Lilie — A Inteligência Artificial de Bolso
-
-Meu principal projeto: uma assistente virtual com foco em interações naturais, conectividade e multifuncionalidade. Começou como um trabalho de escola e se tornou minha maior realização.
-
-- Interface em **Tkinter**
-- Entrada de voz e fala natural
-- Integração com IA generativa via API
-- Backend próprio feito em **Flask**
-- Conexão com dispositivos externos
-- Pensada para rodar futuramente em um gadget portátil (estilo smartwatch, mas mais poderoso)
-
-### 🌐 Sites Personalizados
-
-Tenho criado sites com design premium e foco emocional, como:
-
-- **Sites informativos**: páginas de plantas, pessoas, etc, cheio de efeitos, animações e personalidade
-- **Portfólios modernos**: projetos com visual de alto impacto, uso de gradientes, animações e responsividade
-
----
-
-## 🎯 Interesses
-
-**Profissionais**
-- Inteligência Artificial (IA generativa, assistentes pessoais, automações)
-- Desenvolvimento web moderno (React, animações, APIs)
-- Projetos integrando software e hardware (Raspberry Pi, Arduino, etc.)
-
-**Pessoais / Hobbies**
-- Criar coisas úteis do zero
-- Testar ideias malucas com ajuda da IA
-- Aprender sozinho e transformar conhecimento em produto
-- Design de interfaces e usabilidade
-
----
-
-## 🔗 Onde me encontrar
-
-- [GitHub](https://github.com/oAthlas)
-- [Instagram](https://instagram.com/eu.elderluiz)
-- [Portfólio](https://oathlas.github.io/meu-portfolio)
-- [Reddit](https://www.reddit.com/user/oAthlas/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-
----
-
-## 💡 Extras
-
-- Aprendi a programar do zero utilizando IA como principal ferramenta de estudo
-- Minha missão é transformar meu conhecimento técnico em oportunidades reais de trabalho
-- Procuro conexões com programadores experientes para aprender mais e entrar no mercado profissional ainda jovem
-
----
-
-<div align="center">
-  <strong>Vamos codar?</strong>
-</div>
+## Minhas linguagens e ferramentas
+<img align="left" alt="HTML5" width="26px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/html5.png"/>
+<img align="left" alt="CSS3" width="26px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/css3.png"/>
+<img align="left" alt="Python" width="26px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/python.png"/>
+<img align="left" alt="Git" width="26px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/git.png"/>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/github.png"/>
