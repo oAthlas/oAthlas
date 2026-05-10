@@ -1,4 +1,4 @@
-<img src="https://github.com/oAthlas/oAthlas/blob/main/imgs/ATHLAS.ME.png">
+<img src="https://github.com/oAthlas/oAthlas/blob/main/imgs/ELDER.ME.png">
 <br/>
 <br/>
 
