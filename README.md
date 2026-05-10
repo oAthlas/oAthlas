@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-# Oioi, eu sou o Athlas!
+# Oioi, aqui é o Elder!
 
 <a href="https://www.linkedin.com/in/elder-luiz-2842a5370" target="_blank"><img align="left" alt="linkedin" width="22px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/linkedin.png" /></a>
 <a href="https://discord.com/users/1056208083250065438" target="_blank"><img align="left" alt="discord" width="22px" src="https://github.com/oAthlas/oAthlas/blob/main/imgs/discord.png" /></a>
